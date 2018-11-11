@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+}
+
+.header {
+    position: absolute;
+    width: 100%;
+    height: 130px;
+    background-color: #3061BB;
+    top: 0;
+}
+
+.header h1 {
+    color: white;
+    font-size: 40px;
+    margin-left: 60px;
+    margin-top: 35px;
+}
+
+.header a {
+    position: absolute;
+    top: 50px;
+    left: 230px;
+    text-decoration: none;
+    color: white;
+    background-color: #B9E137;
+    padding: 3px;
+}
+
+ form {
+    width: 850px;
+    height: 350px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 195px;
+}
+
+form  p {
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form hr {
+    width: 775px;
+    padding-left: 25px;
+}
+
+form .email {
+    margin-left: 225px;
+    font-size: 17px;
+}
+
+form .email-input {
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+form .password {
+    margin-left: 225px;
+    font-size: 17px;
+}
+
+form .password-input {
+    margin-left: 71px;
+    margin-top: 15px;
+}
+
+form .checkbox {
+    margin-left: 370px;
+    margin-top: 15px;
+}
+
+form button {
+    margin-left: 370px;
+    margin-top: 15px;
+    padding: 6px;
+    background-color: #3061BB;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 15px;
+
+}
+
+form span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+form .nr {
+    text-decoration: none;
+    color: #3061BB;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+form .ng {
+    text-decoration: none;
+    margin-left: 370px;
+    text-align: center;
+    margin-top: 15px;
+}
